@@ -1,0 +1,31 @@
+
+What is API?
+Analogy -> Imagine you enter a restaurant, you order food through waiter that brings that to the cook which cooks the food and then that food is bought to you by waiter.
+    That waiter is an API and you, and the cook are app and server respectively.
+Defination -> API is a controlled doorway that handles the request and pass it on server with having for app to directly look into server.
+
+What is FastAPI?
+Analogy -> Imagine having a house. It's made of walls, support pillers, and furniture inside it.
+    Here FastAPI is it's walls and support structure.
+Defination -> FastAPI is a framework in which we build our code in.
+
+Why Devlopers Love FastAPI?
+Reason -> 1. Automatic Documentation -> FastAPI create documents on endpoints automatically.
+          2. Type Safety and Validation -> Used to Validate Data.Is it's format correct? Is it's Data type correct? Here we use pydantic
+          3. Minimal Boilerplate -> Example Django Contains Complex Boilerplate but it's minimal here.
+          4. Modern Architecture -> It's architecture is quite modern compared to other frameworks.
+
+What's a Virtual Environment?
+Definition -> It's a seprate environment we create to have a isolated system from our main system where we can install packages that will not be download in main system.
+
+How to use Virtual Environment?
+Installation -> In windows, pip install venv .venv
+Activation -> In windows, .venv/Scripts/activate
+Deactivation -> In Windows, deactivate
+
+To install pydantic, fastapi, and json
+windows:
+    pip install fastapi pydantic json
+
+Writing First Endpoint
+    Go to file main.py
