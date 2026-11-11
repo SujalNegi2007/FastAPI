@@ -1,0 +1,31 @@
+1. What is Uvicorn's job?
+   A) It runs (serves) the FastAPI app
+   B) It validates data
+   C) It is a database
+   D) It writes HTML pages
+
+2. Which URL gives you interactive docs for free?
+   A) /help
+   B) /docs
+   C) /admin
+   D) /api-info
+
+3. What does --reload do?
+   A) Reinstalls packages
+   B) Clears the browser cache
+   C) Restarts the server when you save code
+   D) Reloads the database
+
+
+
+
+
+
+
+
+
+
+Answers
+1 -> A
+2 -> B
+3 -> C

@@ -7,6 +7,6 @@ from fastapi import FastAPI
 # Here app is the object FastAPI
 app = FastAPI()
 
-@app.get('/')
+@app.get('/') # Endpoint -> where on the URL the below
 def greet():
     return {"Hello And Nice To Meet You!"}
